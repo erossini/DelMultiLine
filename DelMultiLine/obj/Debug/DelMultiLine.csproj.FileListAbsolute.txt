@@ -1,0 +1,5 @@
+C:\Project\DelMultiLine\DelMultiLine\bin\Debug\DelMultiLine.exe.config
+C:\Project\DelMultiLine\DelMultiLine\bin\Debug\DelMultiLine.exe
+C:\Project\DelMultiLine\DelMultiLine\bin\Debug\DelMultiLine.pdb
+C:\Project\DelMultiLine\DelMultiLine\obj\Debug\DelMultiLine.exe
+C:\Project\DelMultiLine\DelMultiLine\obj\Debug\DelMultiLine.pdb
